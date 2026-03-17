@@ -6,9 +6,10 @@ A structured collection of LeetCode solutions in **C++** — every problem inclu
 
 ## 📊 Progress Tracker
 
-| #   | Title                                     | Difficulty | Approach                   | Runtime |
-| --- | ----------------------------------------- | ---------- | -------------------------- | ------- |
-| 37  | [Sudoku Solver](./hard/37-sudoku-solver/) | Hard       | Bitmask + MRV Backtracking | 2 ms    |
+| #   | Title                                     | Difficulty | Approach                           | Runtime   |
+| --- | ----------------------------------------- | ---------- | --------------------------------   | ----------|
+| 37  | [Sudoku Solver](./hard/37-sudoku-solver/) | Hard       | Bitmask + MRV Backtracking         | 2 ms      |
+| 78  | [Subsets](./medium/78.%20Subsets/)        | Medium     | Backtracking & Bit Manipulation    | 3ms & 0ms |
 
 ---
 
